@@ -1,0 +1,14 @@
+C:\Users\Andrey\Downloads\LaboratoryEscape\bin\Debug\net8.0\LaboratoryEscape.exe
+C:\Users\Andrey\Downloads\LaboratoryEscape\bin\Debug\net8.0\LaboratoryEscape.deps.json
+C:\Users\Andrey\Downloads\LaboratoryEscape\bin\Debug\net8.0\LaboratoryEscape.runtimeconfig.json
+C:\Users\Andrey\Downloads\LaboratoryEscape\bin\Debug\net8.0\LaboratoryEscape.dll
+C:\Users\Andrey\Downloads\LaboratoryEscape\bin\Debug\net8.0\LaboratoryEscape.pdb
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\LaboratoryEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\LaboratoryEscape.AssemblyInfoInputs.cache
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\LaboratoryEscape.AssemblyInfo.cs
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\LaboratoryEscape.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\LaboratoryEscape.dll
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\refint\LaboratoryEscape.dll
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\LaboratoryEscape.pdb
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\LaboratoryEscape.genruntimeconfig.cache
+C:\Users\Andrey\Downloads\LaboratoryEscape\obj\Debug\net8.0\ref\LaboratoryEscape.dll
